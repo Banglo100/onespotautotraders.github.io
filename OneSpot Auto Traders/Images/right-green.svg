@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{opacity:0.2;fill:none;stroke:#000000;stroke-width:5.000000e-02;stroke-miterlimit:10;}
+</style>
+  <g class="st0" id="grid_system"/>
+  <g id="_icons">
+    <g>
+      <path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10s10-4.5,10-10S17.5,2,12,2z M12,20c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8    S16.4,20,12,20z" style="paint-order: stroke markers; fill: rgb(57, 255, 20);"/>
+      <path d="M 14.677 15.7 C 14.277 16.1 13.677 16.1 13.277 15.7 L 10.277 12.7 C 9.877 12.3 9.877 11.7 10.277 11.3 L 13.277 8.3 C 13.477 8.1 13.777 8 13.977 8 C 14.177 8 14.477 8.1 14.677 8.3 C 15.077 8.7 15.077 9.3 14.677 9.7 L 12.377 12 L 14.677 14.3 C 15.077 14.7 15.077 15.3 14.677 15.7 Z" style="fill: rgb(57, 255, 20); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, 0.000002, 0.000001)"/>
+    </g>
+  </g>
+</svg>
